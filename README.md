@@ -7,7 +7,7 @@
 
 * 🌍 I'm based in Kraków, Poland
 * 🚀 Currently working as a Java API Developer
-* ✨ Constantly learning and discovaring new things!
+* ✨ Constantly learning and discovering new things!
 * 📫 How to reach me: [katarzyna.chlebicka@o2.pl](mailto:katarzyna.chlebicka@o2.pl)
 
 ## 🛠️ Languages and Tools  🖱
