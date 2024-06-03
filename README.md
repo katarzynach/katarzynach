@@ -1,9 +1,13 @@
 ## 👋 Hi there!  My name is Katarzyna Popiela
+
+<img width=100% src="https://github.com/katarzynach/katarzynach/assets/67045711/77fcbf7b-a4fe-478e-90a8-8e8554213eab" alt="" />
+
 ⌨ Java Developer 💻
 -------------
 
 * 🌍 I'm based in Kraków, Poland
 * 🚀 Currently working as a Java API Developer
+* ✨ Constantly learning and discovaring new things!
 * 📫 How to reach me: [katarzyna.chlebicka@o2.pl](mailto:katarzyna.chlebicka@o2.pl)
 
 ## 🛠️ Languages and Tools  🖱
